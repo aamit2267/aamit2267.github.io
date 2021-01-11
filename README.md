@@ -4,22 +4,20 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Cara
+  Amit Portfolio
 </h1>
 
 <p align="center">
   <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the 0BSD license." />
+    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Amit Portfolio is released under the 0BSD license." />
   </a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
+  <a href="https://twitter.com/intent/follow?screen_name=amitagarwal2312">
+    <img src="https://img.shields.io/twitter/follow/amitagarwal2312.svg?label=Follow%20@amitagarwal2312" alt="Follow @amitagarwal2312" />
   </a>
 </p>
 
-Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
-
-[**Demo Website**](https://cara.lekoarts.de)
+Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@aamit2267/amit-portfolio`](https://github.com/aamit2267/amit-portfolio).
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
